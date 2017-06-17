@@ -1,3 +1,13 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# Bootstrap Kickstart is deprecated
+
+… and won’t be actively maintained in the future.
+But there is no need to worry at all, because we’ve released it’s successor called Baumeister.
+Make sure to check out the [Baumeister Yeoman generator](https://github.com/micromata/generator-baumeister).
+
+---
+
 [![npm version](https://badge.fury.io/js/generator-bootstrap-kickstart.svg)](http://badge.fury.io/js/generator-bootstrap-kickstart)
 [![Build Status](https://travis-ci.org/micromata/generator-bootstrap-kickstart.svg?branch=master)](https://travis-ci.org/micromata/generator-bootstrap-kickstart)
 [![Coverage Status](https://coveralls.io/repos/micromata/generator-bootstrap-kickstart/badge.svg?branch=master&service=github)](https://coveralls.io/github/micromata/generator-bootstrap-kickstart?branch=master)
