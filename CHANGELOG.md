@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 3.0.1 (2017-06-19)
+
+- e95789c - 2017-06-18: Add deprication note to README
+- 0ea7a8e - 2017-04-18: Fix Headline in README
+
+
 ## Version 2.4.1 (2016-10-26)
 
 - a0f33e4 - 2016-10-26: Update the banner
